@@ -10,6 +10,7 @@ export default defineConfig(
       'eslint.config.mjs',
       'lint-staged.config.js',
       'commitlint.config.js',
+      'webpack.config.js',
     ],
   },
   eslint.configs.recommended,
